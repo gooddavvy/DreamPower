@@ -1,5 +1,5 @@
-# DreamLang
-The perfectest coding lang
+# DreamPower
+The perfectest coding language. **Still working on it!**
 
 # Basics
 Be bold! End every stement with an `!`.
