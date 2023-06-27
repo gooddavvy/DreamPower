@@ -50,7 +50,7 @@ if worldIsLovely {
   print("Wow, the world is lovely!")!
 }
 
-if !christIsOnEarth {
+if ;christIsOnEarth {
   print("Jesus Christ is not on Earth.")!
 }
 
@@ -73,6 +73,16 @@ To use a type, you use the `:` token.
 ```
 let var myMap: Props = {message: "Hello world!"}!
 ```
+
+If you do not provide a value but you provide a type, to a variable, then the variable will have its value as its type's zero/null value.
+
+You can also use builtin types, like `int`, `float`, `bool`, or `string`.
+
+```
+let var i: int = 20!
+let var f: float = 2.5!
+let var b: bool = maybe!
+let var s: string = "Hello world!"!
 
 # Matrices and Maps
 In DreamPower, when it comes to lists, you use matrices instead of arrays. It's fairly simple:
