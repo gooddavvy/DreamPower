@@ -1,6 +1,8 @@
 # DreamPower
 The perfectest coding language. **Still working on it!**
 
+When you're done reading through, check out the examples.
+
 # Basics
 Be bold! End every stement with an `!`.
 
