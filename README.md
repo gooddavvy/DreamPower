@@ -3,6 +3,8 @@ The perfectest coding language. **Still working on it!**
 
 When you're done reading through, check out the examples.
 
+I believe @ThePrimeagen will like this!
+
 # Basics
 Be bold! End every stement with an `!`.
 
@@ -83,6 +85,7 @@ let var i: int = 20!
 let var f: float = 2.5!
 let var b: bool = maybe!
 let var s: string = "Hello world!"!
+```
 
 # Matrices and Maps
 In DreamPower, when it comes to lists, you use matrices instead of arrays. It's fairly simple:
@@ -100,4 +103,16 @@ myMap.message = "Hello world!"!
 
 print(myMap.message)! // Result: Hello world!
 print(myMap)! // Result: map{message: "Hello world!"}
+```
+
+# Functions
+
+Programmers love shortcuts for their code. These stuff are functions. DreamPower makes them work best. You use `fn`, `fun`, `func`, or `function` to make a function, but `fn` and `fun` are most commonly used.
+
+```
+fun addAndPrint(a: int, b: int): int {
+  let const sum = a + b!
+  print(sum)!
+  return sum!
+}
 ```
