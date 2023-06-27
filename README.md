@@ -36,3 +36,7 @@ To declare variables, use `let var`.
 let var name = "David"!
 name = "Dave"!
 ```
+
+# Booleans
+
+Booleans can be `true`, `false`, or `maybe`.
