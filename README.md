@@ -62,6 +62,18 @@ if ?dreamPowerWillGetPopular {
 # Types and Type Annotations
 DreamPower is a strongly typed programming language.
 
+To declare a type, you use the `let type` keyword.
+
+```
+let type Props = map{message: string} | Map<any>!
+```
+
+To use a type, you use the `:` token.
+
+```
+let var myMap: Props = {message: "Hello world!"}!
+```
+
 # Matrices and Maps
 In DreamPower, when it comes to lists, you use matrices instead of arrays. It's fairly simple:
 
