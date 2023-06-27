@@ -42,3 +42,12 @@ name = "Dave"!
 # Booleans
 
 Booleans can be `true`, `false`, or `maybe`.
+
+# Matrices
+
+In DreamPower, when it comes to lists, you use matrices instead of arrays. It's fairly simple:
+
+```
+let const myMatr = [1, 2, 3]!
+print(myMatr)! // Matr[1, 2, 3]
+```
