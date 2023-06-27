@@ -15,14 +15,14 @@ let const name = "David"!
 If you're feeling extra-bold, you can do this:
 
 ```
-let const name = "David"!!!!!
+let const name = "David"!!!
 ```
 
 In some languages, you use `!` for not. In DreamPower, you use `;`.
 
 ```
 if ;loved {
-  print("I am so sad!")
+  print("I am so sad!")!!!!!
 }
 ```
 
