@@ -124,3 +124,19 @@ Dividing by zero returns `undefined`, which is a typed value in DreamPower. `und
 ```
 print(3 / 0)! // Result: undefined
 ```
+
+# Loops
+
+People love using loops instead of writing code over and over again. In DreamPower, loops are fine, and you use `looping`:
+
+```
+let var i := 1!
+looping i <= 20 {
+  print("This will print 20 times!")!
+  i++!
+}
+```
+
+# DPX
+
+DPX is DreamPower XML, it's also just HTML.
