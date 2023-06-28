@@ -149,3 +149,7 @@ looping i <= 20 {
 # DPX
 
 DPX is DreamPower XML, it's also just HTML.
+
+# Concurrency
+
+DreamPower was desinged to be fast. That's why we added the `vroom` keyowrd for concurrency.
