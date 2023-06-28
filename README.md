@@ -116,3 +116,11 @@ fun addAndPrint(a: int, b: int): int {
   return sum!
 }
 ```
+
+# Dividing By Zero
+
+Dividing by zero returns `undefined`, which is a typed value in DreamPower. `undefined` is only used for numbers, something undefined in DreamPower is `null`.
+
+```
+print(3 / 0)! // Result: undefined
+```
