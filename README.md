@@ -18,9 +18,18 @@ If you're feeling extra-bold, you can do this:
 let const name = "David"!!!
 ```
 
+If you're unsure, that's okay. Using `?` will print (debug) info.
+
+```
+name? // David
+print(name)? // Debug info
+```
+
 In some languages, you use `!` for not. In DreamPower, you use `;`.
 
 ```
+let var loved = true!
+
 if ;loved {
   print("I am so sad!")!!!!!
 }
