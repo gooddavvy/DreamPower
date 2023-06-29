@@ -150,6 +150,24 @@ looping i <= 20 {
 
 DPX is DreamPower XML, it's also just HTML.
 
+You use `funx` as an additional keyword for function but only allowed for DPX functional components, like this:
+
+```tsx
+funx MyComponent(props: DreamPower.DPX.ComponentProps) {
+  return <div>Hello World!</h1>
+}
+```
+
+However, in DreamPower, you cannot use `class` or `className` for DPX attribute because as you know they are already keywords. Instead, you use `htmlClass`, like this:
+
+```tsx
+funx MyComponent(props: DreamPower.DPX.ComponentProps) {
+  return <div htmlClass="my-component-container">Hello World!</h1>
+}
+```
+
+However, you can freely use the `for` attribute because DreamPower's keyword for loops is `looping`.
+
 # Concurrency
 
 DreamPower was desinged to be fast. That's why we added the `vroom` keyowrd for concurrency.
