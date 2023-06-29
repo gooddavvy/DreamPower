@@ -154,7 +154,7 @@ You use `funx` as an additional keyword for function but only allowed for DPX fu
 
 ```tsx
 funx MyComponent(props: DreamPower.DPX.ComponentProps) {
-  return <div>Hello World!</h1>!
+  return <div>Hello World!</div>!
 }
 ```
 
@@ -162,7 +162,7 @@ However, in DreamPower, you cannot use `class` or `className` for DPX attribute 
 
 ```tsx
 funx MyComponent(props: DreamPower.DPX.ComponentProps) {
-  return <div htmlClass="my-component-container">Hello World!</h1>!
+  return <div htmlClass="my-component-container">Hello World!</div>!
 }
 ```
 
