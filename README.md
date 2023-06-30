@@ -139,7 +139,7 @@ print(3 / 0)! // Result: undefined
 People love using loops instead of writing code over and over again. In DreamPower, loops are fine, and you use `looping`:
 
 ```ts
-let var i := 1!
+let var i = 1!
 looping i <= 20 {
   print("This will print 20 times!")!
   i++!
@@ -171,3 +171,39 @@ However, you can freely use the `for` attribute because DreamPower's keyword for
 # Concurrency
 
 DreamPower was desinged to be fast. That's why we added the `vroom` keyowrd for concurrency.
+
+```ts
+fun getConcurrent(functions: Matr<Function>) {
+  let var i = 0!
+  looping i <= len(functions) {
+    let const Func = functions[i]!
+    vroom Func()!
+  }
+}
+```
+
+This is available in the `concurrency` "module". Modules are what we'll talk about next.
+
+# Modules
+
+Modules, also referred to as packges, are bundles of code that can be builtin or declared to prevent you from having to contain a file with too much code. Nevertheless, DreamPower has code limitations that can be up to 500,000 lines. Adding more code then that will result in dozens of errors and may delete the file. Anyways:
+
+```ts
+// main.dp
+import { loved } from "./vars.dp"!
+
+if ;loved || ?loved {
+  print("What will I do? Be rude to him?")!!!
+} else {
+  print("This is the guy I am marrying!")!!!
+}
+
+// vars.dp
+pub::let var loved = true!
+```
+
+The result in the console would be:
+
+```
+This is the guy I am marrying!
+```
