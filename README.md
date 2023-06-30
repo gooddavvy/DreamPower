@@ -186,7 +186,7 @@ This is available in the `concurrency` "module". Modules are what we'll talk abo
 
 # Modules
 
-Modules, also referred to as packges, are bundles of code that can be builtin or declared (as in declare myself or declare with installation) to prevent you from having to contain a file with too much code. Nevertheless, DreamPower has code limitations that can be up to 500,000 lines. Adding more code then that will result in dozens of errors and may delete the file. Anyways:
+Modules, also referred to as packges, are bundles of code that can be builtin or declared (as in declare myself or declare with installation) to prevent you from having to contain a file with too much code. Nevertheless, DreamPower has code limitations that can be up to 500,000 lines, depending on the performance of your operating system or local machine. Adding more code then that will result in dozens of errors and may delete the file. Anyways:
 
 ```ts
 // main.dp
