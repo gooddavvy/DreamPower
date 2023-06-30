@@ -186,7 +186,7 @@ This is available in the `concurrency` "module". Modules are what we'll talk abo
 
 # Modules
 
-Modules, also referred to as packges, are bundles of code that can be builtin or declared to prevent you from having to contain a file with too much code. Nevertheless, DreamPower has code limitations that can be up to 500,000 lines. Adding more code then that will result in dozens of errors and may delete the file. Anyways:
+Modules, also referred to as packges, are bundles of code that can be builtin or declared (as in declare myself or declare with installation) to prevent you from having to contain a file with too much code. Nevertheless, DreamPower has code limitations that can be up to 500,000 lines. Adding more code then that will result in dozens of errors and may delete the file. Anyways:
 
 ```ts
 // main.dp
@@ -209,3 +209,5 @@ This is the guy I am marrying!
 ```
 
 Haha, I know what you're thinking. _Why did David use a marriage example?_ I was trying to make coding fun!
+
+You can also use builtin packages like `three/web`, `three/desk`, or `math/rand`. If you want to try these out, please go to our web documentation (not made yet) and see it.
