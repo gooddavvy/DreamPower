@@ -192,7 +192,7 @@ Modules, also referred to as packges, are bundles of code that can be builtin or
 // main.dp
 import { loved } from "./vars.dp"!
 
-if ;loved || ?loved {
+if ;loved or ?loved {
   print("What will I do? Be rude to him?")!!!
 } else {
   print("This is the guy I am marrying!")!!!
