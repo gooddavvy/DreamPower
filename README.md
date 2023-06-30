@@ -207,3 +207,5 @@ The result in the console would be:
 ```
 This is the guy I am marrying!
 ```
+
+Haha, I know what you're thinking. _Why did David use a marriage example?_ I was trying to make coding fun!
