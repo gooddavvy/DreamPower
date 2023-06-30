@@ -210,4 +210,8 @@ This is the guy I am marrying!
 
 Haha, I know what you're thinking. _Why did David use a marriage example?_ I was trying to make coding fun!
 
-You can also use builtin packages like `three/web`, `three/desk`, or `math/rand`. If you want to try these out, please go to our web documentation (not made yet) and see it.
+You can also use builtin packages like `three/web`, `three/desk`, `dreamchain` or `math/rand`. If you want to try these out, please go to our web documentation (not made yet) and see it.
+
+# Other Things to Say
+
+We're looking fore a lot of stars! So please, if you see and like this language, tell others you know on GitHub about it, and star it. We would really appriceate a single star!
