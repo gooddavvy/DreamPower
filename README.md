@@ -1,3 +1,5 @@
+> DreamPower will shortly be known on CodeSandbox, CodePen, and Replit!
+
 # DreamPower
 The perfectest coding language. **Still working on it!**
 
@@ -215,3 +217,5 @@ You can also use builtin packages like `three/web`, `three/desk`, `dreamchain` o
 # Other Things to Say
 
 We're looking fore a lot of stars! So please, if you see and like this language, tell others you know on GitHub about it, and star it. We would really appriceate a single star!
+
+Thanks @shaumne (my GitHub friend who may contribute) @furkanayaz, @kbachnik, @ab25cq, @atorchildlink, @benfaerber, @rampagekiller0725, and @sommmen for all the support! **If I missed anyone, please let me know!**
