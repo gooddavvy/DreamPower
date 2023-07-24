@@ -1,4 +1,4 @@
-> DreamPower will shortly be known on CodeSandbox, CodePen, and Replit!!!
+> DreamPower will shortly be known on [CodeSandbox](https://codesandbox.io/), [CodePen](https://codepen.io), and [Replit](https://replit.com)!!!
 
 # DreamPower
 The perfectest coding language. **Still working on it!**
