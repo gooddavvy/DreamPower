@@ -1,11 +1,11 @@
-> DreamPower will shortly be known on CodeSandbox, CodePen, and Replit!!!
+> DreamPower will shortly be known on [CodeSandbox](https://codesandbox.io/), [CodePen](https://codepen.io), and [Replit](https://replit.com)!!!
 
 # DreamPower
 The perfectest coding language. **Still working on it!**
 
 When you're done reading through, check out the examples.
 
-I believe @ThePrimeagen will like this!
+I believe [@ThePrimeagen](https://github.com/ThePrimeagen) will like this!
 
 # Basics
 Be bold! End every stement with an `!`.
@@ -218,4 +218,4 @@ You can also use builtin packages like `three/web`, `three/desk`, `dreamchain` o
 
 We're looking for a lot of stars! So please, if you see and like this language, tell others you know on GitHub about it, and star it. We would really appriceate a single star!
 
-Thanks @shaumne (my GitHub friend who may contribute), @sedaguler588, @Farzaneh59, @furkanayaz, @kbachnik, @ab25cq, @atorchildlink, @benfaerber, @rampagekiller0725, and @sommmen for all the support! **If I missed anyone, please let me know!**
+Thanks [@shaumne](https://github.com/shaumne) (my GitHub friend who may contribute), @sedaguler588, [@Farzaneh59](https://github.com/Farzaneh59), [@furkanayaz](https://github.com/furkanayaz), [@kbachnik](https://github.com/kbachnik), [@ab25cq](https://github.com/ab25cq), [@atorchildlink](https://github.com/atorchildlink/), [@benfaerber](https://github.com/benfaerber), [@rampagekiller0725](https://github.com/rampagekiller0725), and [@sommmen](https://github.com/sommmen) for all the support! **If I missed anyone, please let me know!**
